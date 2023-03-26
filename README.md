@@ -1,2 +1,2 @@
 # Pineapple
-Pineapple software that can be downloaded into any coding platform and used. Each Pineapple.sprite 
+Pineapple software that can be downloaded into any coding platform and used. Each Pineapple sprite will have it's own built in functions that can create a pineapple, give info on pineapples, share the latest pineapple memes...
