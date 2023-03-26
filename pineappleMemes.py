@@ -13,7 +13,7 @@ class Meme(Window):
 
         super().__init__(SCREEN_WIDTH, SCREEN_HEIGHT, SCREEN_TITLE)
         self.spongebobMeme = "Who lives in a pineapple under the sea."
-        self.
+        self.spongebobMemeAnswer = "Spongebob Squarepants"
 
         pass
 
