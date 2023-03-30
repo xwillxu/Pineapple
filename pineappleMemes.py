@@ -14,6 +14,8 @@ class Meme(Window):
         super().__init__(SCREEN_WIDTH, SCREEN_HEIGHT, SCREEN_TITLE)
         self.spongebobMeme = "Who lives in a pineapple under the sea."
         self.spongebobMemeAnswer = "Spongebob Squarepants"
+        self.whoEatsPineapple = "Who only eats pineapples"
+        self.whoEatsPineappleANs
 
         pass
 
@@ -21,28 +23,6 @@ class Meme(Window):
         """Setup"""
 
         arcade.set_background_color(arcade.color.OCEAN_BOAT_BLUE)
-
-        pass
-
-    def on_key_press(self, key, modifiers):
-        """Key Press"""
-
-        pass
-
-    def on_key_release(self, key, modifiers):
-        """Key Press"""
-
-        pass
-
-    def on_draw(self):
-        """Draw"""
-
-        arcade.start_render()
-
-        pass
-
-    def on_update(self, delta_time):
-        """Update"""
 
         pass
 
