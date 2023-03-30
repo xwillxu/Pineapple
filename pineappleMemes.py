@@ -15,7 +15,7 @@ class Meme(Window):
         self.spongebobMeme = "Who lives in a pineapple under the sea."
         self.spongebobMemeAnswer = "Spongebob Squarepants"
         self.whoEatsPineapple = "Who only eats pineapples"
-        self.whoEatsPineappleANs
+        self.whoEatsPineappleAnswer = "Pine & Apple Addicts"
 
         pass
 
