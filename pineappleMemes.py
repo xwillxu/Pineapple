@@ -17,6 +17,7 @@ class Meme(Window):
         self.whoEatsPineapple = "Who only eats pineapples"
         self.whoEatsPineappleAnswer = "Pine & Apple Addicts. LOL"
         self.howToGrowAPineapple = "One Thing:"
+        self.howToGrowAPineappleAnswer = "Put it in water."
 
         pass
 
